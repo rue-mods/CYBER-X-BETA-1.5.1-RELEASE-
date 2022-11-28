@@ -11,7 +11,7 @@
       }
     },
     "signedIdentityKey": {
-      "public": {
+      "private": {
         "type": "Buffer",
         "data": "OHUmSWdRB7j5siTxm66UwhbgrZwN+cEpfC+nnxyXOnk="
       },
